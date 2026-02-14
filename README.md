@@ -79,6 +79,6 @@ All AI usage is documented in the **AI Usage Report** included with the submissi
 ---
 
 ## Author
-Student ID: **[Your Student ID Here]**
+Student ID: **24280040**
 
-Course: **[Course Name / Code]**
+Course: **EE 416 Gen Ai**
